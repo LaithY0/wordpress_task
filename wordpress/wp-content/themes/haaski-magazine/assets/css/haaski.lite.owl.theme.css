@@ -1,0 +1,17 @@
+.owl-carousel .owl-item {
+  padding:0 1px
+}
+
+.owl-dots {
+  margin-top: 0 !important;
+  margin-bottom: 5px !important;
+}
+
+.owl-theme .owl-dots .owl-dot span {
+  margin: 5px 7px !important;
+}
+
+.owl-dots {
+	margin-top: 10px !important;
+	margin-bottom: -10px !important;
+}
